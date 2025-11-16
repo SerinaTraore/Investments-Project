@@ -1,6 +1,6 @@
 Spring 2024
 
-> ⚠️ **Note :** Ceci est une **fraction du projet initial** que j'ai choisi de reproduire et documenter pour partager mon approche et mes analyses. Le projet complet comporte plusieurs autres sections et analyses qui ne sont pas incluses ici.
+> **Note :** Ceci est une **fraction du projet initial** que j'ai choisi de reproduire et documenter pour partager mon approche et mes analyses. Le projet complet comporte plusieurs autres sections et analyses qui ne sont pas incluses ici.
 
 ## Contexte du projet
 
