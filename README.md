@@ -10,7 +10,7 @@ Ce projet a été réalisé dans le cadre du cours **Investments (Spring 2024)**
 - **Idiosyncratic Volatility (IV)**  
 - **Momentum (MoM)**  
 
-Ensuite, il fallait analyser la performance des stratégies optimales, en utilisant des facteurs de risque standards de Ken French, puis analyser l'exposition aux risques sectoriels et comparer deux approches pour construire des portefeuilles industry-neutral.
+Ensuite, j'ai dû analyser la performance des stratégies optimales, en utilisant des facteurs de risque standards de Ken French, puis analyser l'exposition aux risques sectoriels et comparer deux approches pour construire des portefeuilles industry-neutral.
 
 ## Données
 
@@ -31,12 +31,12 @@ Ensuite, il fallait analyser la performance des stratégies optimales, en utilis
 
 > ⚠️ La **stratégie Momentum (MoM)** a été **exclue** dans cette fraction car la construction naïve réalisée affichait des performances trop faibles et je manquais de temps pour l’améliorer.
 
-> ⚠️ La **section “Industry-neutral strategy”**, potentiellement la plus intéressante du projet, n’a pas été incluse dans cette fraction. Cette section consiste à :  
+> ⚠️ Une **section “Industry-neutral strategy”**, potentiellement la plus intéressante du projet,n'est pas encore incluse dans cette fraction. Cette section consiste à :  
 > - Construire séparément les stratégies BaB, IV et MoM pour chacune des 12 industries afin d’obtenir un portefeuille industry-neutral.  
 > - Combiner ensuite ces 12 stratégies via des pondérations égales pour générer un **STRAT industry-neutral**.  
 > - Analyser la performance du portefeuille neutralisé en régressant sur les 17 facteurs de risque (12 industries + 5 Fama-French), et discuter de sa consistance avec le CAPM, l’APT et les marchés efficients.  
 
-> ⚠️ Les sections **Optimal Fund Portfolio** et **Performance Analysis** ne sont pas encore incluses dans cette version.
+> ⚠️ Les sections **Optimal Fund Portfolio** et **Performance Analysis** ne sont pas encore incluses dans cette version
 
 ## Comment utiliser ce notebook
 
